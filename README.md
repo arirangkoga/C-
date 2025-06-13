@@ -1,7 +1,7 @@
 
 # 주전자
 
-'''C
+''' C
     
     #include <GL/freeglut.h>
     
