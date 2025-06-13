@@ -1,5 +1,7 @@
 # 무지개 사각형
 
+
+```c
     #pragma comment(lib, "opengl32.lib")
     
     #include <windows.h>
@@ -54,7 +56,7 @@
         wglMakeCurrent(0, 0); wglDeleteContext(rc); ReleaseDC(hwnd, dc);
         return 0;
     }
-    
+``` 
     
     
 
@@ -65,7 +67,7 @@
 # 주전자
 
 
-    
+```c
     #include <GL/freeglut.h>
     
     float angle = 0.0f;
@@ -122,7 +124,7 @@
         glutMainLoop();
         return 0;
     }
-
+```
 
 
 
