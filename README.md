@@ -1,6 +1,7 @@
 
 #주전자
-//'''
+
+'''C
 
 #include <GL/freeglut.h>
 
