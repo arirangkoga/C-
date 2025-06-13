@@ -1,6 +1,7 @@
 
 #주전자
-'
+'''
+
 #include <GL/freeglut.h>
 
 float angle = 0.0f;
@@ -57,4 +58,4 @@ int main(int argc, char** argv) {
     glutMainLoop();
     return 0;
 }
-'
+'''
